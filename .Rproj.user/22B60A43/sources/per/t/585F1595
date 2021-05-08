@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620216699552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1969108856",
+    "id" : "585F1595",
+    "lastKnownWriteTime" : 1620459351,
+    "last_content_update" : 1620459351636,
+    "path" : "D:/stock price/stock price/its ok.R",
+    "project_path" : "its ok.R",
+    "properties" : {
+        "cursorPosition" : "177,0",
+        "scrollLine" : "157",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

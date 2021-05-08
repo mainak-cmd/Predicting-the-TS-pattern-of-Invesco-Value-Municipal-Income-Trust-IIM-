@@ -1,0 +1,9 @@
+{
+    "path" : "D:/stock price/stock price",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
